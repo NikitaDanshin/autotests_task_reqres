@@ -1,2 +1,3 @@
 # autotests_task_reqres
-Autotests for Reqres.in
+This repository stores the autotests for web-site "https://reqres.in/"
+
