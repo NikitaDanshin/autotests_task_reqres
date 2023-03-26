@@ -7,4 +7,5 @@ Tools: Python, Selenium WebDriver, PyTest, requests
 Description of files:
 file requirements.txt stores all versions of packages
 file conftest.py stores global settings and fixtures which is often use
+file pytest.ini stores marks
 
